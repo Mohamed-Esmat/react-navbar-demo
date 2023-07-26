@@ -6,7 +6,7 @@
 
 ## Demo
 
-A live demo of the project can be found here: [Live Demo](https://your-live-demo-url)
+A live demo of the project can be found here: [Live Demo](https://react-navbar-demo-esmat.netlify.app/)
 
 ## Table of Contents
 
@@ -73,9 +73,6 @@ The project follows a simple structure:
 
 ```
 react-navbar-demo/
-|-- public/
-|   |-- index.html
-|
 |-- src/
 |   |-- components/
 |   |   |-- Navbar.jsx
